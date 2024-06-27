@@ -1,5 +1,5 @@
 {
-  description = "McBuild development nix flake";
+  description = "game engine black book development nix flake";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixos-unstable";
