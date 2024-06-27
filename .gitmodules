@@ -1,0 +1,6 @@
+[submodule "gebbwolf3"]
+	path = gebbwolf3
+	url = https://github.com/fabiensanglard/gebbwolf3
+[submodule "gebbdoom"]
+	path = gebbdoom
+	url = https://github.com/fabiensanglard/gebbdoom
